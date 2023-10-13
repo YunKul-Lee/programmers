@@ -32,13 +32,4 @@ public class Solution {
 
         return answer;
     }
-
-    public static void main(String[] args) {
-        int k = 6;
-        int[] tangerine = {1, 3, 2, 5, 4, 5, 2, 3};
-
-        Solution s = new Solution();
-        int result = s.solution(k, tangerine);
-        System.out.println(result);
-    }
 }
