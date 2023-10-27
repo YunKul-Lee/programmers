@@ -1,6 +1,5 @@
 package practice.level2.뒤에_있는_큰_수_찾기;
 
-import java.util.Arrays;
 import java.util.Stack;
 
 public class Solution {
