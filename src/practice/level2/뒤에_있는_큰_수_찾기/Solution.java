@@ -1,4 +1,4 @@
-package practice.level2.연속된_부분_수열의_합;
+package practice.level2.뒤에_있는_큰_수_찾기;
 
 import java.util.Arrays;
 import java.util.Stack;
